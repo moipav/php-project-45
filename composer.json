@@ -1,0 +1,16 @@
+{
+    "name": "hexlet/code",
+    "description": "this is study project by Pavel M on hexlet",
+    "autoload": {
+        "psr-4": {
+            "Hexlet\\Code\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "moipav",
+            "email": "moipav@yandex.ru"
+        }
+    ],
+    "require": {}
+}
